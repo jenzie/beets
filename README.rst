@@ -6,6 +6,14 @@ Voluntary testing was performed by:
    * Shun Mok Bhark (sxb5828@rit.edu)
    * Chris Norman (cpn9025@rit.edu)
 
+Tests performed:
+   * User acceptance
+   * Load & stress
+   * Compatibility
+   * Mutation & coverage
+   * Unit testing
+   * Code inspections
+
 Original README
 ---------------
 
