@@ -1,3 +1,14 @@
+Voluntary testing was performed by:  
+   * Jenny Zhen (jxz6853@rit.edu)
+   * Chris Ketant (cck9672@rit.edu)
+   * Eric Caron (ejc7119@rit.edu)
+   * David Wilson (dmw9070@rit.edu)
+   * Shun Mok Bhark (sxb5828@rit.edu)
+   * Chris Norman (cpn9025@rit.edu)
+
+Original README
+---------------
+
 Beets is the media library management system for obsessive-compulsive music
 geeks.
 
